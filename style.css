@@ -1,6 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&family=Shadows+Into+Light+Two&display=swap');
+
+h5,h1,p{
+    font-family: "Marck Script", cursive;
+}
+#title{
+    font-family: "Marck Script", cursive;
+    font-size: 30px;
+   
+}
 div{
     border: 1px solid;
     padding: 10px;
 }
+body{
+    background: url(purple.jpg);
+}
+#photo{
+    background: url(download.jpeg);
+    background-size: cover;
+}
+p{
+    background-color: blueviolet;
+    
+}
 
+p2{
+    background-color: rgb(207, 175, 221);
+}
+h5{
+    background-color: lightpink;
+}
 
