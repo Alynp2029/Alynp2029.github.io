@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Marck+Script&family=Shadows+Into+Light+Two&display=swap');
 
-h5,h1,p{
+h5,p{
     font-family: "Marck Script", cursive;
 }
 #title{
@@ -9,8 +9,9 @@ h5,h1,p{
    
 }
 div{
-    border: 1px solid;
+    border: 3px solid;
     padding: 10px;
+    border-color: whitesmoke;
 }
 body{
     background: url(purple.jpg);
@@ -29,5 +30,9 @@ p2{
 }
 h5{
     background-color: lightpink;
+}
+h1{
+    font-size: 30px;
+    font-family: "Marck Script", cursive;
 }
 
