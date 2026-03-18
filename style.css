@@ -20,8 +20,12 @@ body{
     background: url(download.jpeg);
     background-size: cover;
 }
+#section-1{
+    background: url(download.jpeg);
+    background-size: cover;
+}
 p{
-    background-color: blueviolet;
+    background-color: rgb(219, 253, 210);
     
 }
 
@@ -29,7 +33,7 @@ p2{
     background-color: rgb(207, 175, 221);
 }
 h5{
-    background-color: lightpink;
+    background-color: rgb(219, 253, 210);
 }
 h1{
     font-size: 30px;
