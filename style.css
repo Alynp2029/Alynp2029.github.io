@@ -8,10 +8,15 @@ h5,p{
     font-size: 30px;
    
 }
+iframe{
+    
+}
 div{
+   
+    padding: 10px; 
     border: 3px solid;
-    padding: 10px;
-    border-color: whitesmoke;
+    border-color: aliceblue;
+    
 }
 body{
     background: url(purple.jpg);
